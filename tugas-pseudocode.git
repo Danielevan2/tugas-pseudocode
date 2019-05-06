@@ -1,0 +1,15 @@
+#tugas
+
+#cara1
+input dan simpan A : "berapa banyak penumpang?" (max4)
+simpan B '20 km/jam'
+if A '3'
+ do 'hitung B - 5km/jam = C'
+if A '4'
+ do 'hitung B - 7km/jam = C'
+if A '1'
+ do 'hitung B - 2km/jam = C'
+if A '2'
+ do 'hitung B - 2km/jam = C'
+else do 'nothing'
+tampilkan C
